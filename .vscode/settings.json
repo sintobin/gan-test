@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/home/bjorn/anaconda3/envs/gans/bin/python",
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
